@@ -1,0 +1,11 @@
+.related > a {
+    width: 250px;
+}
+
+.related {
+    padding: 0px;
+}
+
+.codrops-header h1 span {
+    padding: 15px;
+}
